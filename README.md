@@ -1,1 +1,1 @@
-# RFC-prediction-gui-app
+# Gan-s-for-generating-fashion-images
